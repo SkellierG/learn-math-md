@@ -43,7 +43,7 @@ Este roadmap está diseñado para guiarte a través de un enfoque constructivo y
 
 **¿Por qué?**: Las matemáticas discretas son esenciales para la informática teórica y otras áreas donde la continuidad no es una consideración. La teoría de grafos y la combinatoria son fundamentales para resolver problemas en ciencias de la computación y en optimización.
 
-## 7. [Matemática Aplicada y Computacional](ES/matematica-aplicada/Matematica-Aplicada.md)
+## 7. [Matemática Aplicada](ES/matematica-aplicada/Matematica-Aplicada.md) y  [Computacional](ES/matematica-computacional/Matematica-Computacional.md)
 - **[Ecuaciones Diferenciales](ES/matematica-aplicada/ecuaciones-diferenciales/Ecuaciones-Diferenciales.md)**: Ecuaciones diferenciales ordinarias y en derivadas parciales, aplicaciones en física.
 - **[Métodos Numéricos](ES/matematica-aplicada/métodos-numéricos/Métodos-Numéricos.md)**: Interpolación, métodos de integración y derivación numérica, resolución de sistemas lineales.
 - **[Criptografía](ES/matematica-aplicada/criptografia/Criptografía.md)**: Fundamentos de criptografía simétrica y asimétrica, aplicaciones de teoría de números en seguridad informática.
