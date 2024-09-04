@@ -1,7 +1,7 @@
 # Languages
 
-- [EN - English](#Learn%20Math%20With%20Markdown)
-- [ES - Español](#Aprende%20Matemáticas%20Con%20Markdown)
+- [EN - English](#Learn-Math-With-Markdown)
+- [ES - Español](#Aprende-Matemáticas-Con-Markdown)
 
 # Learn Math With Markdown
 
