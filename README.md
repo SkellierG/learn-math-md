@@ -21,7 +21,10 @@ Mathematics are not simply arbitrary rules or tricks like PEMDAS; they are much 
 I hope that my friends, who sometimes struggle with mathematics, even in "basic" concepts, will be able to advance thanks to a true and deep understanding of this subject.
 
 ## Full Index 
-For a complete overview of all topics and sections available in this mathematics encyclopedia, refer to the [Full Index](./INDEX.md). This index provides a comprehensive guide to all the content organized in a logical structure. ## Topics Our encyclopedia covers a wide range of mathematical topics. You can explore detailed entries on each topic through the following main branches:
+For a complete overview of all topics and sections available in this mathematics encyclopedia, refer to the [Full Index](./INDEX.md). This index provides a comprehensive guide to all the content organized in a logical structure. 
+
+## Topics
+Our encyclopedia covers a wide range of mathematical topics. You can explore detailed entries on each topic through the following main branches:
 
 - [Algebra](EN/algebra/Algebra.md) 
 - [Calculus](EN/calculus/Calculus.md) 
