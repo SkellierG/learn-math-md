@@ -38,7 +38,11 @@ Our encyclopedia covers a wide range of mathematical topics. You can explore det
 - [Computational Mathematics](EN/computational-mathematics/Computational-Mathematics.md)
 
 
-Explore each branch to find in-depth explanations, definitions, and examples on a variety of mathematical concepts. ## Where to Start If you're unsure where to begin or if you're seeking a structured learning path, check out our [Roadmap](EN/Roadmap.md). This roadmap outlines a suggested sequence of topics that builds from foundational concepts to more advanced areas, ensuring a comprehensive understanding of mathematics from a theoretical perspective.
+Explore each branch to find in-depth explanations, definitions, and examples on a variety of mathematical concepts. 
+
+## Where to Start
+
+If you're unsure where to begin or if you're seeking a structured learning path, check out our [Roadmap](EN/Roadmap.md). This roadmap outlines a suggested sequence of topics that builds from foundational concepts to more advanced areas, ensuring a comprehensive understanding of mathematics from a theoretical perspective.
 
 ## Language Support
 
