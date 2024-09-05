@@ -180,8 +180,7 @@ Todas las contribuciones serán revisadas por los desarrolladores del proyecto. 
 
 > **tip:** puedes revisar la carpeta estandarizacion de cada lenguaje y guiarte desde ahi para comenzar a contribuir
 
-`aqui esta el estandar para articulos`
-[Estandar para articlulos](ES/estandarizacion/Articulos.md)
+*[aqui esta el estandar para articulos](ES/estandarizacion/Articulo.md)*
 
 ### 5. Requisitos y Directrices de Estilo
 
