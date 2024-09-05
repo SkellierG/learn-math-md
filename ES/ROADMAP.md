@@ -1,7 +1,7 @@
 Este roadmap está diseñado para guiarte a través de un enfoque constructivo y teórico puro de las matemáticas. Comenzando con los fundamentos más abstractos y avanzando hacia áreas de aplicación más especializadas, este recorrido te ayudará a desarrollar una comprensión profunda y sólida de los conceptos matemáticos.
 
 ## 1. [Lógica y Fundamentos](logica-y-fundamentos/Logica-y-Fundamentos.md)
-- **[Lógica Proposicional](logica-y-fundamentos/Lógica-Proposicional.md)**: Conceptos básicos de verdad, conectivos lógicos, tablas de verdad.
+- **[Lógica Proposicional](Logica-Proposicional.md)**: Conceptos básicos de verdad, conectivos lógicos, tablas de verdad.
 - **[Lógica de Predicados](logica-y-fundamentos/Lógica-de-Predicados.md)**: Cuantificadores, deducción natural, teorías de modelos.
 - **[Teoría de Conjuntos](logica-y-fundamentos/Teoría-de-Conjuntos.md)**: Axiomas de Zermelo-Fraenkel, operaciones con conjuntos, cardinalidad, conceptos de infinito.
 
