@@ -176,7 +176,12 @@ Para contribuir contenido directamente:
 
 ### 4. Revisión de Pull Requests
 
-Todas las contribuciones serán revisadas por los desarrolladores del proyecto. Asegúrate de mantener un estilo de escritura similar para facilitar un proceso de revisión más rápido. Los desarrolladores pueden solicitar cambios antes de que tu contribución sea fusionada.
+Todas las contribuciones serán revisadas por los desarrolladores del proyecto. Asegúrate de mantener un estandar de escritura similar para facilitar un proceso de revisión más rápido. Los desarrolladores pueden solicitar cambios antes de que tu contribución sea fusionada.
+
+> **tip:** puedes revisar la carpeta estandarizacion de cada lenguaje y guiarte desde ahi para comenzar a contribuir
+
+`aqui esta el estandar para articulos`
+[Estandar para articlulos](ES/estandarizacion/Articulos.md)
 
 ### 5. Requisitos y Directrices de Estilo
 
