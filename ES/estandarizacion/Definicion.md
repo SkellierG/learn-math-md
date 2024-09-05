@@ -216,6 +216,6 @@ donde para cada $x \in A$, existe un único $f(x) \in B$.
 ## Recursos Adicionales
 
 *   **Material Adicional 1:** [Vídeos Educativos sobre Funciones]() – Material visual para entender mejor las funciones matemáticas.
-*   **Ejercicios Prácticos:** [Ejercicios sobre Definiciones Matemáticas]) – Ejercicios para practicar la definición y aplicación de conceptos matemáticos.
+*   **Ejercicios Prácticos:** [Ejercicios sobre Definiciones Matemáticas]() – Ejercicios para practicar la definición y aplicación de conceptos matemáticos.
 
 
