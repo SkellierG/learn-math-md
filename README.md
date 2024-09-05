@@ -122,16 +122,16 @@ Para una visión general completa de todos los temas y secciones disponibles en 
 ## Temas
 Nuestra enciclopedia cubre una amplia gama de temas matemáticos. Puedes explorar entradas detalladas sobre cada tema a través de las siguientes ramas principales:
 
-- [Álgebra](ES/algebra/Álgebra.md)
-- [Cálculo](ES/calculo/Cálculo.md)
-- [Geometría](ES/geometria/Geometría.md)
-- [Estadística y Probabilidad](ES/estadistica-y-probabilidad/Estadística-y-Probabilidad.md)
-- [Matemáticas Discretas](ES/matematicas-discretas/Matemáticas-Discretas.md)
-- [Análisis](ES/analisis/Análisis.md)
-- [Topología](ES/topologia/Topología.md)
-- [Lógica y Fundamentos](ES/logica-y-fundamentos/Lógica-y-Fundamentos.md)
-- [Matemáticas Aplicadas](ES/matematicas-aplicadas/Matemáticas-Aplicadas.md)
-- [Matemáticas Computacionales](ES/matematicas-computacionales/Matemáticas-Computacionales.md)
+- [Álgebra](ES/algebra/Algebra.md)
+- [Cálculo](ES/calculo/Calculo.md)
+- [Geometría](ES/geometria/Geometria.md)
+- [Estadística y Probabilidad](ES/estadistica-y-probabilidad/Estadistica-y-Probabilidad.md)
+- [Matemáticas Discretas](ES/matematicas-discretas/Matematicas-Discretas.md)
+- [Análisis](ES/analisis/Analisis.md)
+- [Topología](ES/topologia/Topologia.md)
+- [Lógica y Fundamentos](ES/logica-y-fundamentos/Logica-y-Fundamentos.md)
+- [Matemáticas Aplicadas](ES/matematicas-aplicadas/Matematicas-Aplicadas.md)
+- [Matemáticas Computacionales](ES/matematicas-computacionales/Matematicas-Computacionales.md)
 
 Explora cada rama para encontrar explicaciones detalladas, definiciones y ejemplos sobre una variedad de conceptos matemáticos.
 
